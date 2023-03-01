@@ -24,7 +24,7 @@ dependencies:
   url_launcher: ^5.4.11
   firebase_core: ^0.4.0+9
   firebase_analytics: ^5.0.2
-  http: ^0.12.1
+  http: ">=0.12.1 <0.14.0"
   flutter_icons: ^1.1.0
   share: ^0.6.5+4
   pretty_json: ^1.1.0
